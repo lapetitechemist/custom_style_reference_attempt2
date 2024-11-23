@@ -1,0 +1,21 @@
+<b:Bibliography>
+  <b:Source>
+    <b:SourceType>JournalArticle</b:SourceType>
+    <b:Author>
+      <b:NameList>
+        <b:Person><b:Last>Smith</b:Last><b:First>John</b:First></b:Person>
+        <b:Person><b:Last>Petrovic</b:Last><b:First>Peter</b:First></b:Person>
+        <b:Person><b:Last>Rose</b:Last><b:First>Mary</b:First></b:Person>
+        <b:Person><b:Last>De Souz</b:Last><b:First>Carlos</b:First></b:Person>
+        <b:Person><b:Last>Muller</b:Last><b:First>Laura</b:First></b:Person>
+        <b:Person><b:Last>Nowak</b:Last><b:First>Bruno</b:First></b:Person>
+        <b:Person><b:Last>Martinez</b:Last><b:First>Jose</b:First></b:Person>
+      </b:NameList>
+    </b:Author>
+    <b:Title>Placeholder Text: A Study</b:Title>
+    <b:JournalName>Citation Styles</b:JournalName>
+    <b:Year>2021</b:Year>
+    <b:Volume>3</b:Volume>
+    <b:Pages>123-130</b:Pages>
+  </b:Source>
+</b:Bibliography>
